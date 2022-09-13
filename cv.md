@@ -38,8 +38,6 @@ I'm interested in web development and everything connected with it.
 
 - **[Business card website](https://oksanazhuravel.github.io/Resume/)**
 
-- **[MIWO](https://github.com/OksanaZhuravel/MIWO)**
-
 <!-- ## Code
 
 ## Experience -->
